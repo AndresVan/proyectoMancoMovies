@@ -1,0 +1,22 @@
+/* Pages
+-------------------------------------------- */
+/* maintenance page*/
+#maintenance {
+  padding-top: 4rem;
+  text-align: center;
+}
+#maintenance i {
+  color: var(--color-primary);
+  font-size: 4rem;
+  margin: 1rem 0;
+}
+
+/* Error page */
+.error-page {
+  text-align: center;
+}
+.error-page h1,
+.error-page h2,
+.error-page h3 {
+  font-size: 5rem;
+}

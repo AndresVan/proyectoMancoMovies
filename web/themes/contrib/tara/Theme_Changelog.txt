@@ -1,0 +1,28 @@
++===============================+
+Version 10.0.0
+30 Aug 2022
++===============================+
+# Initial release of 10.x.x series.
+
+
++===============================+
+Version 10.0.1
+05 Nov, 2022
++===============================+
+- Fixed left sidebar layout issue on frontpage.
+- Better README.md file content.
+
+
++===============================+
+Version 10.0.2
+21 Dec, 2022
++===============================+
+- Minor improvements.
+
+
++===============================+
+Version 10.0.3
+20 Jan, 2023
++===============================+
+- Minor improvements.
+- Removed Poppins font from the theme.
