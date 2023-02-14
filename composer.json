@@ -22,6 +22,7 @@
         "drupal/core-project-message": "^9.5",
         "drupal/core-recommended": "^9.5",
         "drupal/danland": "^1.1",
+        "drupal/search_api": "^1.28",
         "drupal/tara": "^10.0",
         "drush/drush": "^11.4"
     },
